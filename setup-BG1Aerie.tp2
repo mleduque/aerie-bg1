@@ -19,6 +19,10 @@ LANGUAGE
 		 ~Russian (Alisia & Arcanecoast.ru)~
          ~russian~
          ~BG1Aerie/tra/russian/B1Asetup.tra~
+LANGUAGE 		 
+          ~Français~
+          ~french~
+          ~BG1Aerie/tra/french/B1Asetup.tra~
 
 // Component setup
 BEGIN ~Aerie for BG:EE~

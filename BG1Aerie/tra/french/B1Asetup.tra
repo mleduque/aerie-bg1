@@ -1,0 +1,56 @@
+@0    = ~Anneau de Protection d'Aerie~
+@1    = ~L'Elfe Aerie a créé cet anneau alors qu'elle étudiait la magie sous la direction de Bentha la sorcière. Il est semblable à un anneau de protection ordinaire, mis à part un charme supplémentaire qui protège le porteur contre la magie délétère.
+
+STATISTIQUES:
+
+Capacités d'équipement :
+Classe d'Armure : +1
+Jets de Sauvegarde : +1
+Résistance à la Magie : +10%
+
+Poids : 0~
+@2    = ~Bottes de Marche~
+@3    = ~Cets bottes sont faites pour marcher, et c'est tout ce qu'elles font. Elles sont aussi plutôt grandes, enfin elles le seraient sur une personne fine et menue.
+
+STATISTIQUES :
+
+Poids : 4~
+@4    = ~Aerie~
+@5    = ~Lorsqu'on l'interroge sur son passé, Aerie reste muette pendant quelques instants, clairement attristée par ses souvenirs. Elle vivait parmi les Avariels, les Elfes ailés, et a été capturée par des marchands d'esclaves alors qu'elle était encore très jeune. Elle frisonne alors qu'elle évoque ses premières années au cirque, exposée dans une cage qui restreignait ses mouvements au point que ses ailes se sont atrophiées. Elles se sont infectées et… Aerie est à peine capable de raconter la nuit où elle a été extraite de sa cage et où ses ailes ont été sciées pour la garder en vie. Elle n'était alors plus d'aucune utilité pour le cirque, et sans la bonté de Quayle elle n'aurait certainement pas survécu. Il l'a remise sur pieds, lui a donné une raison de continuer à vivre. Pour sa générosité, elle s'est alors dévouée au dieu gnome Baervan Ermiterrant. Elle parle de Baervan avec affection, mais respecte toujours Aerdrië Faenya, et comtemple la vie hors du cirque avec naïveté innocente et émerveillement, combinés à une détermination instinctive à se battre contre les injustices.~
+@6    = ~Ashur~
+@7    = ~Kyte~
+@8    = ~Tello~
+
+@21   = ~J'ai fait de…de mon… de mon mieux, monsieur.~ [B2#Aeri7]
+@22   = ~C'est bien plus excitant que n'importe quel cirque.~ [B2#Aeriy]
+
+@24   = ~Vous… Vous voulez que je dirige ? Je… Je ferai de mon mieux…~ [B2#Aerib]
+@25   = ~Ohh… mes jambes… Mes jambes me font souffrir. Je n'avais jamais autant marché. Est-ce… Est-ce qu'on pourrait se reposer maintenant ? Par pitié !~ [B2#Aeric]
+@26   = ~Je ne m'attendais pas à ce qu'on reste autant debout à ne rien faire.~ [B2#Aerid]
+@27   = ~Je… ne supporterai pas que mes amis soient blessés !~ [B2#Aeria]
+@28   = ~Je vous ferai mal s'il le faut !~ [B2#Aeri8]
+
+
+@31   = ~Je… J'ai besoin de soins. J'ai mal… Tellement mal…~ [B2#Aerie]
+@32   = ~(soupir) Je ne peux m'empêcher de me rappeler à quoi ressemblent les forêts du nord vues du ciel. Elles sont… tellement majestueuses.~ [B2#Aerin]
+@33   = ~Je… Je n'ai jamais pu voir grand-chose des villes, depuis le cirque. Sont-elles toutes aussi bondées de monde ?~ [B2#Aerio]
+@34   = ~Oh… mon peuple parlait de ce genre de choses. Être sous terre,ce n'est vraiment pas fait pour les Avariels.~ [B2#Aerip]
+@35   = ~Ma… ma mère me racontait ces histoires… sur les horribles choses qui jaillissent dans la nuit. Mais… Oh, je dois paraître ridicule.~ [B2#Aerir]
+@36   = ~Oui ?~ [B2#Aerif]
+@37   = ~Je ferai tout mon possible pour aider.~ [B2#Aerig]
+@38   = ~Que puis-je faire ?~ [B2#Aerih]
+@39   = ~Hmm ?~ [B2#Aerix]
+@40   = ~Vous avez besoin de quelque chose ?~ [B2#Aeri0]
+@41   = ~Plus rapide que Chiktikka Lestepattes !~ [B2#Aerii]
+@42   = ~Je vais le faire !~ [B2#Aerij]
+@43   = ~Au nom de Baervan, ce sera fait.~ [B2#Aerik]
+@44   = ~Dois-je vraiment le faire ?~ [B2#Aeri_]
+@45   = ~Si… Si vous êtes sûr de vous.~ ~Si… Si vous êtes sûre de vous.~ [B2#Aeriu]
+
+@47   = ~Oh, ça alors…~ [B2#Aeriz]
+
+@49   = ~Mon arme n'a aucun effet !~ [B2#Aeri2]
+@50   = ~Non, Je… Je ne peux rien prendre de plus… Ohh, désolée, j'ai laissé tomber quelque chose.~ [B2#Aeri3]
+@51   = ~Très bien.~ [B2#Aeris]
+@52   = ~Je ferai de mon mieux.~ [B2#Aerit]
+@53   = ~À L'AIDE ! AIDEZ-MOI, S'IL VOUS PLAAAIIIT !!~ [B2Aeri95]
